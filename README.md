@@ -34,7 +34,7 @@ Sou curioso por natureza, estudioso e sempre buscando unir teoria e prática. Go
 Sinta-se à vontade para explorar meus repositórios! Estou sempre trabalhando em novos projetos, aprendendo algo novo ou refinando uma ideia antiga.  
 Se quiser trocar uma ideia, colaborar ou apenas dizer oi:
 
-📫 **meuemail@email.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seulink](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-de-sousa-00689824b/?trk=opento_sprofile_goalscard))
+📫 **jpss.joaopedross@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-de-sousa-00689824b/?trk=opento_sprofile_goalscard)
 
 
