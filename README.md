@@ -3,19 +3,19 @@
 Sou estudante de Ciência da Computação na UFRJ e apaixonado por tecnologia, matemática e tudo que envolve 
 resolver problemas de forma inteligente. Gosto de transformar ideias em código e usar a computação como 
 ferramenta para resolver problemas complexos envolvendo Análise de Dados, Machine Learning, Modelagem 
-Matemática e COmputação Científica.
+Matemática e Computação Científica.
 
 ## 🧠 Interesses
 
 - **Ciência de Dados e Machine Learning** — Gosto de entender os fundamentos por trás dos algoritmos e aplicar técnicas para extrair valor de dados.
 - **Otimização e Computação Científica** — Tenho interesse em resolver problemas com métodos numéricos e modelagem matemática.
-- **Python Developer** — Utilizo bibliotecas como `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`, `CVXPY` e outras para análise de dados, visualização e otimização.
+- **Python Developer** — Domínio da linguagem Python para implementar soluções para diversos problemas.
 
 ## 🔧 Habilidades Técnicas
 
 - **Linguagens**: Python, C, Java (iniciante), LaTeX  
 - **Bibliotecas/Frameworks**: Pandas, Matplotlib, Scikit-Learn, CVXPY, NumPy  
-- **Ferramentas**: Git, Jupyter, Google Colab, VS Code  
+- **Ferramentas**: Git, Jupyter, Google Colab, VS Code, Docker  
 - **Outros**: Modelagem matemática, Análise de algoritmos, Programação Linear, Dev de scripts para análise de dados
 
 <!-- ## 📂 Projetos em destaque
